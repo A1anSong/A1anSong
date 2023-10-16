@@ -34,10 +34,11 @@ details.
 [![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)](https://dotnet.microsoft.com)
 
 ***Primary Frameworks and Libraries:***
-[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)](https://vuejs.org)
-[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
 [![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
+[![](https://img.shields.io/badge/-Jupyter-gray?logo=jupyter)](https://jupyter.org)
+[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)](https://vuejs.org)
+[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/-Unity-gray?logo=unity)](https://unity.com)
 [![](https://img.shields.io/badge/-Timescale-gray?logo=timescale)](https://www.timescale.com)
 
