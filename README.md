@@ -38,16 +38,18 @@ details.
 **Primary Frameworks and Libraries:**
 [![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
 [![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
-[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)](https://vuejs.org)
-[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)](https://tailwindcss.com)
+[![](https://img.shields.io/badge/-Vue-gray?logo=vuedotjs)](https://vuejs.org)
+[![](https://img.shields.io/badge/-React-gray?logo=react)](https://reactjs.org)
+[![](https://img.shields.io/badge/-Electron-gray?logo=electron)](https://www.electronjs.org)
+[![](https://img.shields.io/badge/-Tailwind%20CSS-gray?logo=tailwindcss)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/-pandas-gray?logo=pandas)](https://pandas.pydata.org)
 [![](https://img.shields.io/badge/-Jupyter-gray?logo=jupyter)](https://jupyter.org)
 [![](https://img.shields.io/badge/-Unity-gray?logo=unity)](https://unity.com)
 [![](https://img.shields.io/badge/-Timescale-gray?logo=timescale)](https://www.timescale.com)
 
 **Databases:**
-[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
 [![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)](https://www.postgresql.org)
+[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
 [![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-gray?logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server)
 [![](https://img.shields.io/badge/-Amazon%20RDS-gray?logo=amazonrds)](https://aws.amazon.com/rds)
 [![](https://img.shields.io/badge/-Google%20BigQuery-gray?logo=googlebigquery)](https://cloud.google.com/bigquery)
