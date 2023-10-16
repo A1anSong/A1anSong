@@ -26,14 +26,14 @@ Here are some of the technologies I excel at. This is just a glimpse of my skill
 details.
 
 **Primary Languages:**
-[![](https://img.shields.io/badge/-golang-gray?logo=go)](https://go.dev)
-[![](https://img.shields.io/badge/-python-gray?logo=python)](https://www.python.org)
-[![](https://img.shields.io/badge/-java-gray?logo=openjdk)](https://openjdk.org)
-[![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)](https://nodejs.org)
-[![](https://img.shields.io/badge/-php-gray?logo=php)](https://www.php.net)
+[![](https://img.shields.io/badge/-Go-gray?logo=go)](https://go.dev)
+[![](https://img.shields.io/badge/-Python-gray?logo=python)](https://www.python.org)
+[![](https://img.shields.io/badge/-Java-gray?logo=openjdk&logoColor=red)](https://openjdk.org)
+[![](https://img.shields.io/badge/-Node.js-gray?logo=nodedotjs)](https://nodejs.org)
+[![](https://img.shields.io/badge/-PHP-gray?logo=php)](https://www.php.net)
 [![](https://img.shields.io/badge/-C&C++-gray?logo=cplusplus)](https://cplusplus.com)
 [![](https://img.shields.io/badge/-C%23-gray?logo=dotnet)](https://dotnet.microsoft.com)
-[![](https://img.shields.io/badge/-Bash-gray?logo=gnubash)](https://www.gnu.org/software/bash)
+[![](https://img.shields.io/badge/-GNU%20Bash-gray?logo=gnubash)](https://www.gnu.org/software/bash)
 
 **Primary Frameworks and Libraries:**
 [![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
