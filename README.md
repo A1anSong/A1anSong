@@ -25,15 +25,15 @@ fresh start.
 Here are some of the technologies I excel at. This is just a glimpse of my skill set, feel free to reach out for more
 details.
 
-***Primary Languages:***
+**Primary Languages:**
 [![](https://img.shields.io/badge/-golang-gray?logo=go)](https://go.dev)
 [![](https://img.shields.io/badge/-python-gray?logo=python)](https://www.python.org)
-[![](https://img.shields.io/badge/-java-gray?logo=java)](https://openjdk.org)
+[![](https://img.shields.io/badge/-java-gray?logo=openjdk)](https://openjdk.org)
 [![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)](https://nodejs.org)
 [![](https://img.shields.io/badge/-php-gray?logo=php)](https://www.php.net)
 [![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)](https://dotnet.microsoft.com)
 
-***Primary Frameworks and Libraries:***
+**Primary Frameworks and Libraries:**
 [![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
 [![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
 [![](https://img.shields.io/badge/-Jupyter-gray?logo=jupyter)](https://jupyter.org)
@@ -42,11 +42,11 @@ details.
 [![](https://img.shields.io/badge/-Unity-gray?logo=unity)](https://unity.com)
 [![](https://img.shields.io/badge/-Timescale-gray?logo=timescale)](https://www.timescale.com)
 
-***Databases:***
+**Databases:**
 [![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
 [![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)](https://www.postgresql.org)
 
-***Work with these Tools:***
+**Work with these Tools:**
 [![](https://img.shields.io/badge/-Git-gray?logo=git)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Docker-gray?logo=docker)](https://www.docker.com)
 [![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)](https://www.jetbrains.com)
@@ -60,17 +60,17 @@ garnering valuable hands-on experience.
 
 Here's a succinct overview of my experiences:
 
-1. Software and System Development:
+1. **Software and System Development:**
    Engaged in a variety of project developments encompassing network transmission, external device integration, e-commerce
    platforms, financial website displays, and order management statistical systems.
-2. Blockchain Technology and Applications:
+2. **Blockchain Technology and Applications:**
    Encompasses the establishment and management of a Bitcoin mining farm, development of automated trading bots, and the
    design of market analysis systems for Bitcoin trading platforms.
-3. Augmented Reality/Virtual Reality/Mixed Reality (AR/VR/MR) and Game Development:
+3. **Augmented Reality/Virtual Reality/Mixed Reality (AR/VR/MR) and Game Development**:
    Realized 3D software content and AR/VR/MR applications development through the Unity engine.
-4. Mobile Application and Microservices Development:
+4. **Mobile Application and Microservices Development:**
    Engaged in WeChat Mini Program platform and reverse engineering projects for certain APKs.
-5. Automation and Scripting Development:
+5. **Automation and Scripting Development:**
    Authored a series of automation scripts and tools for other routine operations.
 
 ***
