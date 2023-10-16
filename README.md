@@ -39,7 +39,6 @@ details.
 [![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
 [![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
 [![](https://img.shields.io/badge/-Vue-gray?logo=vuedotjs)](https://vuejs.org)
-[![](https://img.shields.io/badge/-React-gray?logo=react)](https://reactjs.org)
 [![](https://img.shields.io/badge/-Electron-gray?logo=electron)](https://www.electronjs.org)
 [![](https://img.shields.io/badge/-Tailwind%20CSS-gray?logo=tailwindcss)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/-pandas-gray?logo=pandas)](https://pandas.pydata.org)
