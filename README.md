@@ -48,19 +48,19 @@ details.
 ***Work with these Tools:***
 [![](https://img.shields.io/badge/-Git-gray?logo=git)](https://git-scm.com)
 [![](https://img.shields.io/badge/-Docker-gray?logo=docker)](https://www.docker.com)
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)](https://code.visualstudio.com)
 [![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)](https://www.jetbrains.com)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)](https://code.visualstudio.com)
 ***
 
 ### Industry Experience:
 
-Throughout my vibrant technical journey, I've had the privilege to be involved in projects across a myriad of domains,
+Throughout my vibrant technical journey, I've had the opportunity to be involved in projects across a myriad of domains,
 garnering valuable hands-on experience.
 
 Here's a succinct overview of my experiences:
 
 1. Software and System Development:
-   Engaged in a variety of project developments including network transmission, external device integration, e-commerce
+   Engaged in a variety of project developments encompassing network transmission, external device integration, e-commerce
    platforms, financial website displays, and order management statistical systems.
 2. Blockchain Technology and Applications:
    Encompasses the establishment and management of a Bitcoin mining farm, development of automated trading bots, and the
