@@ -43,7 +43,7 @@ details.
 
 ***Databases:***
 [![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
-[![](https://img.shields.io/badge/-Timescale-gray?logo=postgresql)](https://www.postgresql.org)
+[![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)](https://www.postgresql.org)
 
 ***Work with these Tools:***
 [![](https://img.shields.io/badge/-Git-gray?logo=git)](https://git-scm.com)
