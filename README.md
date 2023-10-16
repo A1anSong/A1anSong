@@ -11,7 +11,7 @@ I'm A1an, a fullstack developer.
   [![](https://img.shields.io/badge/-Gmail-gray?logo=gmail)](mailto:songxz1992@gmail.com)
   [![](https://img.shields.io/badge/-WeChat-gray?logo=wechat)](#wechat-qr-code)
 
-Tips: Before Github introduced the private repository feature, I had moved some of my projects to my private Gitea
+Tips: Before Github introduced the free private repository feature, I had moved some of my projects to my private Gitea
 repository,
 which resulted in the loss of some star and fork data. Additionally, the lack of proper maintenance for some projects
 also led to losses. Despite this, I am not bothered by these past losses.
