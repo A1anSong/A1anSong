@@ -19,31 +19,34 @@ On May 1, 2023, I decided to move my projects back to Github, looking forward to
 fresh start.
 ***
 
-### Skills Showcase:
+### Skills Showcase (A Glimpse):
+Here are some of the technologies I excel at. This is just a glimpse of my skill set, feel free to reach out for more details.
 
 ***Primary Languages:***
-[![](https://img.shields.io/badge/-golang-gray?logo=go)]()]()
-[![](https://img.shields.io/badge/-python-gray?logo=python)]()]()
-[![](https://img.shields.io/badge/-java-gray?logo=openjdk)]()
-[![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)]()
-[![](https://img.shields.io/badge/-php-gray?logo=php)]()
-[![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)]()
+[![](https://img.shields.io/badge/-golang-gray?logo=go)](https://go.dev)
+[![](https://img.shields.io/badge/-python-gray?logo=python)](https://www.python.org)
+[![](https://img.shields.io/badge/-java-gray?logo=java)](https://openjdk.org)
+[![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)](https://nodejs.org)
+[![](https://img.shields.io/badge/-php-gray?logo=php)](https://www.php.net)
+[![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)](https://dotnet.microsoft.com)
 
 ***Primary Frameworks and Libraries:***
-[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)]()
-[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)]()
-[![](https://img.shields.io/badge/-Gin-gray)]()
-[![](https://img.shields.io/badge/-GORM-gray)]()
+[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)](https://vuejs.org)
+[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)](https://tailwindcss.com)
+[![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
+[![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
+[![](https://img.shields.io/badge/-Unity-gray?logo=unity)](https://unity.com)
+[![](https://img.shields.io/badge/-Timescale-gray?logo=timescale)](https://www.timescale.com)
 
 ***Databases:***
-[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)]()
-[![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)]()
+[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
+[![](https://img.shields.io/badge/-Timescale-gray?logo=postgresql)](https://www.postgresql.org)
 
 ***Work with these Tools:***
-[![](https://img.shields.io/badge/-Git-gray?logo=git)]()
-[![](https://img.shields.io/badge/-Docker-gray?logo=docker)]()
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)]()
-[![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)]()
+[![](https://img.shields.io/badge/-Git-gray?logo=git)](https://git-scm.com)
+[![](https://img.shields.io/badge/-Docker-gray?logo=docker)](https://www.docker.com)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)](https://code.visualstudio.com)
+[![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)](https://www.jetbrains.com)
 ***
 ### Github Stats:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1anSong&theme=transparent&layout=pie&count_private=true&langs_count=20)]()
