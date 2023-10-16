@@ -22,34 +22,34 @@ fresh start.
 ### Skills Showcase:
 
 ***Primary Languages:***
-![](https://img.shields.io/badge/-golang-gray?logo=go)
-![](https://img.shields.io/badge/-python-gray?logo=python)
-![](https://img.shields.io/badge/-java-gray?logo=openjdk&logoColor=red)
-![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)
-![](https://img.shields.io/badge/-php-gray?logo=php)
-![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)
+[![](https://img.shields.io/badge/-golang-gray?logo=go)]()]()
+[![](https://img.shields.io/badge/-python-gray?logo=python)]()]()
+[![](https://img.shields.io/badge/-java-gray?logo=openjdk)]()
+[![](https://img.shields.io/badge/-node.js-gray?logo=nodedotjs)]()
+[![](https://img.shields.io/badge/-php-gray?logo=php)]()
+[![](https://img.shields.io/badge/-.Net-gray?logo=dotnet)]()
 
 ***Primary Frameworks and Libraries:***
-![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)
-![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)
-![](https://img.shields.io/badge/-Gin-gray)
-![](https://img.shields.io/badge/-GORM-gray)
+[![](https://img.shields.io/badge/-vue.js-gray?logo=vuedotjs)]()
+[![](https://img.shields.io/badge/-Tailwind%20SS-gray?logo=tailwindcss)]()
+[![](https://img.shields.io/badge/-Gin-gray)]()
+[![](https://img.shields.io/badge/-GORM-gray)]()
 
 ***Databases:***
-![](https://img.shields.io/badge/-MySQL-gray?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql&logoColor=white)
+[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)]()
+[![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)]()
 
 ***Work with these Tools:***
-![](https://img.shields.io/badge/-Git-gray?logo=git)
-![](https://img.shields.io/badge/-Docker-gray?logo=docker)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)
-![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)
+[![](https://img.shields.io/badge/-Git-gray?logo=git)]()
+[![](https://img.shields.io/badge/-Docker-gray?logo=docker)]()
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)]()
+[![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)]()
 ***
 ### Github Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1anSong&theme=transparent&layout=pie&count_private=true&langs_count=20)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1anSong&theme=transparent&layout=pie&count_private=true&langs_count=20)]()
 ***
 ### Wechat QR Code:
-![](asset/wechat.jpg)
+[![](asset/wechat.jpg)]()
 
 <!--
 **A1anSong/A1anSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
