@@ -1,7 +1,7 @@
 ### Hi there! Nice to see you. 👋
 
 ***
-Welcome to my Github page!
+Welcome to my GitHub page!
 
 I'm A1an, a fullstack developer.
 
@@ -11,12 +11,12 @@ I'm A1an, a fullstack developer.
   [![](https://img.shields.io/badge/-Gmail-gray?logo=gmail)](mailto:songxz1992@gmail.com)
   [![](https://img.shields.io/badge/-WeChat-gray?logo=wechat)](#wechat-qr-code)
 
-Tips: Before Github introduced the free private repository feature, I had moved some of my projects to my private Gitea
+Tips: Before GitHub introduced the free private repository feature, I had moved some of my projects to my private Gitea
 repository,
 which resulted in the loss of some star and fork data. Additionally, the lack of proper maintenance for some projects
 also led to losses. Despite this, I am not bothered by these past losses.
 
-On May 1, 2023, I decided to move my projects back to Github, looking forward to showcasing them on this platform with a
+On May 1, 2023, I decided to move my projects back to GitHub, looking forward to showcasing them on this platform with a
 fresh start.
 ***
 
@@ -77,7 +77,7 @@ Here's a succinct overview of my experiences:
 
 ***
 
-### Github Stats:
+### GitHub Stats:
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1anSong&theme=transparent&layout=pie&count_private=true&langs_count=20)]()
 ***
