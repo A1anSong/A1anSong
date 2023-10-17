@@ -6,7 +6,7 @@ Welcome to my Github page!
 I'm A1an, a fullstack developer.
 
 - 🔭 I’m currently working on data analyzing and reverse engineering.
-- 👯 I’m looking to collaborate on blockchain projects.
+- 👯 I’m looking to collaborate on blockchain and Web3 projects.
 - 📫 How to reach me:
   [![](https://img.shields.io/badge/-Gmail-gray?logo=gmail)](mailto:songxz1992@gmail.com)
   [![](https://img.shields.io/badge/-WeChat-gray?logo=wechat)](#wechat-qr-code)
