@@ -8,8 +8,8 @@ I'm A1an, a fullstack developer.
 - 🔭 I’m currently working on data analyzing and reverse engineering.
 - 👯 I’m looking to collaborate on blockchain and Web3 projects.
 - 📫 How to reach me:
-  [![](https://img.shields.io/badge/-Gmail-gray?logo=gmail)](mailto:songxz1992@gmail.com)
-  [![](https://img.shields.io/badge/-WeChat-gray?logo=wechat)](#wechat-qr-code)
+  [![](https://img.shields.io/badge/-Gmail-eeeeee?logo=gmail)](mailto:songxz1992@gmail.com)
+  [![](https://img.shields.io/badge/-WeChat-eeeeee?logo=wechat)](#wechat-qr-code)
 
 Tips: Before GitHub introduced the free private repository feature, I had moved some of my projects to my private Gitea
 repository,
