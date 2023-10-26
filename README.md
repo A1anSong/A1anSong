@@ -26,34 +26,25 @@ Here are some of the technologies I excel at. This is just a glimpse of my skill
 details.
 
 **Primary Languages:**
-[![](https://img.shields.io/badge/-Go-gray?logo=go)](https://go.dev)
-[![](https://img.shields.io/badge/-Python-gray?logo=python)](https://www.python.org)
-[![](https://img.shields.io/badge/-Java-gray?logo=openjdk&logoColor=red)](https://openjdk.org)
-[![](https://img.shields.io/badge/-Node.js-gray?logo=nodedotjs)](https://nodejs.org)
-[![](https://img.shields.io/badge/-PHP-gray?logo=php)](https://www.php.net)
-[![](https://img.shields.io/badge/-C&C++-gray?logo=cplusplus)](https://cplusplus.com)
-[![](https://img.shields.io/badge/-C%23-gray?logo=dotnet)](https://dotnet.microsoft.com)
+[![Go](https://img.shields.io/badge/-Go-eeeeee?logo=go)](https://go.dev)
+[![Java](https://img.shields.io/badge/-Java-eeeeee?logo=openjdk)](https://openjdk.org)
+[![Python](https://img.shields.io/badge/-Python-eeeeee?logo=python)](https://www.python.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-eeeeee?logo=nodedotjs)](https://nodejs.org)
+[![PHP](https://img.shields.io/badge/-PHP-eeeeee?logo=php)](https://www.php.net)
+[![C&C++](https://img.shields.io/badge/-C&C++-eeeeee?logo=cplusplus)](https://cplusplus.com)
+[![C#](https://img.shields.io/badge/-C%23-eeeeee?logo=dotnet)](https://dotnet.microsoft.com)
 
 **Primary Frameworks and Libraries:**
-[![](https://img.shields.io/badge/-Gin-gray)](https://gin-gonic.com)
-[![](https://img.shields.io/badge/-GORM-gray)](https://gorm.io)
-[![](https://img.shields.io/badge/-Vue-gray?logo=vuedotjs)](https://vuejs.org)
-[![](https://img.shields.io/badge/-Jupyter-gray?logo=jupyter)](https://jupyter.org)
-[![](https://img.shields.io/badge/-Unity-gray?logo=unity)](https://unity.com)
+[![Gin](https://img.shields.io/badge/-Gin-eeeeee)](https://gin-gonic.com)
+[![GORM](https://img.shields.io/badge/-GORM-eeeeee)](https://gorm.io)
+[![Vue](https://img.shields.io/badge/-Vue-eeeeee?logo=vuedotjs)](https://vuejs.org)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-eeeeee?logo=jupyter)](https://jupyter.org)
+[![Unity](https://img.shields.io/badge/-Unity-eeeeee?logo=unity)](https://unity.com)
 
 **Databases:**
-[![](https://img.shields.io/badge/-PostgreSQL-gray?logo=postgresql)](https://www.postgresql.org)
-[![](https://img.shields.io/badge/-MySQL-gray?logo=mysql)](https://www.mysql.com)
-[![](https://img.shields.io/badge/-Timescale-gray?logo=timescale)](https://www.timescale.com)
-
-**Tools:**
-[![](https://img.shields.io/badge/-Git-gray?logo=git)](https://git-scm.com)
-[![](https://img.shields.io/badge/-Docker-gray?logo=docker)](https://www.docker.com)
-[![](https://img.shields.io/badge/-JetBrains-gray?logo=jetbrains)](https://www.jetbrains.com)
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?logo=visualstudiocode)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/-CloudFlare-gray?logo=cloudflare)](https://cloudflare.com)
-[![](https://img.shields.io/badge/-Open%20AI-gray?logo=openai)](https://openai.com)
-***
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eeeeee?logo=postgresql)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?logo=mysql)](https://www.mysql.com)
+[![Timescale](https://img.shields.io/badge/-Timescale-eeeeee?logo=timescale)](https://www.timescale.com)
 
 ### Industry Experience:
 
