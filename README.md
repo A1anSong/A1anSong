@@ -75,7 +75,7 @@ Here's a succinct overview of my experiences:
 
 ### Wechat QR Code:
 
-[![](assets/wechat.jpg)]()
+[![](assets/wechat.png)]()
 
 <!--
 **A1anSong/A1anSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
